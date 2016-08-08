@@ -1,0 +1,37 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perltray-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perltray.exe
+Script: AuctionTray.pl
+Cwd: C:\Evan\Auctionitis103
+Byref: 0
+Clean: 0
+Date: 2010-06-08 12:15:00
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: AuctionTray.exe
+Force: 1
+Gui: 0
+Hostname: RICHMONDRD
+Icon: C:\Evan\Auctionitis103\banana.ico
+Lib: lib:..\lib
+No-Compress: 0
+No-Gui: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Singleton: 1
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: Auctionitis Software Limited
+Version-FileDescription: Auctionitis Auction Tray Task Despatcher
+Version-FileVersion: 1.0.0.1777
+Version-InternalName: AuctionTray
+Version-LegalCopyright: Copyright (c) Auctionitis Software Limited
+Version-LegalTrademarks: Auctionitis
+Version-OriginalFilename: Auctionitis Tray Loader
+Version-ProductName: Auctionitis Tray Loader
+Version-ProductVersion: 1.0.0.1777
+Warnings: 0
+Xclude: 0

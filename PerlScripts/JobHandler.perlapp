@@ -1,0 +1,33 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlapp-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlapp.exe
+Script: JobHandler.pl
+Cwd: C:\Evan\Auctionitis103
+Clean: 0
+Date: 2010-06-07 16:25:37
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: JobHandler.exe
+Force: 1
+Gui: 1
+Hostname: RICHMONDRD
+Lib: lib:..\lib
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: Auctionitis Software Limited
+Version-FileDescription: Handle Jobs despatched by AuctionTray
+Version-FileVersion: 1.0.0.1988
+Version-InternalName: JobHandler
+Version-LegalCopyright: Copyright (c) Auctionitis Software Limited 2009
+Version-LegalTrademarks: Auctionitis
+Version-OriginalFilename: Auctionitis Job Handler
+Version-ProductName: Auctionitis Job Handler
+Version-ProductVersion: 1.0.0.1988
+Warnings: 0
+Xclude: 0

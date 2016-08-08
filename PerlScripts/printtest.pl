@@ -1,0 +1,1 @@
+print "Extracting day of month values\n";

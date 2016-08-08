@@ -1,0 +1,33 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlapp-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlapp.exe
+Script: DeleteTMAuctions.pl
+Cwd: C:\Evan\Auctionitis103
+Clean: 0
+Date: 2009-05-07 15:28:58
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: DeleteTMAuctions.exe
+Force: 0
+Gui: 0
+Hostname: devbox
+Icon: ..\icons\ico-files\skull.ico
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: 
+Version-FileDescription: 
+Version-FileVersion: 
+Version-InternalName: 
+Version-LegalCopyright: 
+Version-LegalTrademarks: 
+Version-OriginalFilename: 
+Version-ProductName: 
+Version-ProductVersion: 
+Warnings: 0
+Xclude: 0

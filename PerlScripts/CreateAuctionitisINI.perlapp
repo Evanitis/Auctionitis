@@ -1,0 +1,33 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlapp-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlapp.exe
+Script: CreateAuctionitisINI.pl
+Cwd: C:\Evan\Auctionitis103
+Clean: 0
+Date: 2010-07-08 16:55:59
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: CreateAuctionitisINI.exe
+Force: 1
+Gui: 1
+Hostname: RICHMONDRD
+Lib: lib:..\lib
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: Auctionitis Software Limited
+Version-FileDescription: Convert Auctionitis Settings to INI file
+Version-FileVersion: 1.0.0.1689
+Version-InternalName: CreateAuctionitisINI
+Version-LegalCopyright: Copyright (c) Auctionitis Software Limited 2009
+Version-LegalTrademarks: Auctionitis
+Version-OriginalFilename: Create Auctionitis INI File
+Version-ProductName: Convert Auctionitis Settings to INI file
+Version-ProductVersion: 1.0.0.1689
+Warnings: 0
+Xclude: 0

@@ -1,0 +1,35 @@
+Here is what I used:
+
+Win32::Service::GetStatus("", "service_name", \%status)
+
+All information about the service is returned in the hash %status
+
+Here is a list of the different values you can find the hash:
+
+CheckPoint
+ControlsAccepted
+CurrentState
+ServiceSpecificExitCode
+ServiceType
+WaitHint
+Win32ExitCode
+
+
+The key you are interested in is $status{'CurrentState'}
+
+Here is the list of values returned by CurrentState and their meanings:
+
+Win32Constant            Value    Description    
+SERVICE_STOPPED           0x01    The service has stopped.    
+SERVICE_START_PENDING     0x02    The service is starting up.    
+SERVICE_STOP_PENDING      0x03    The service is in the process of stopping.    
+SERVICE_RUNNING           0x04    The service has successfully started and is running.    
+SERVICE_CONTINUE_PENDING  0x05    The service is resuming from a paused state.    
+SERVICE_PAUSE_PENDING     0x06    The service is entering the paused state.    
+SERVICE_PAUSED            0x07    The service is pausing.
+
+Knowing the value of the state is important because it then let's you specify events based on what the service is doing.  
+
+For example, say you want to install a program, but it requires that a service be stopped before the program can be installed.  You can issue a stop command to the service and then use an if statement along with a loop that looks for state 0x01.  If it does not find that state, keep looping until the state is encountered.  
+
+The reason for this is services sometimes don't stop immediately.  There is a period of time when the service is stopping 0x03.  If you try to install while the service is in state 0x03, you will get an error.

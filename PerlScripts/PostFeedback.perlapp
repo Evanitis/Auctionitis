@@ -1,0 +1,32 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 7.2\bin\lib\pai.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 7.2\bin\perlapp.exe
+Script: PostFeedback.pl
+Cwd: C:\Evan\Auctionitis103
+Clean: 0
+Date: 2008-06-02 20:38:21
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: PostFeedback.exe
+Force: 1
+Gui: 1
+Hostname: DEVBOX
+Icon: ..\icons\ico-files\guitar.ico
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: Auctionitis Software Limited
+Version-FileDescription: Post Feedback for Completed Auctions
+Version-FileVersion: 1.0
+Version-InternalName: PostFeedback
+Version-LegalCopyright: 2007
+Version-LegalTrademarks: Auctionitis
+Version-OriginalFilename: PostFeedback
+Version-ProductName: PostFeedback 
+Version-ProductVersion: 1.0
+Xclude: 0

@@ -1,0 +1,32 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlctrl-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 8.0.1\bin\perlctrl.exe
+Script: TMLoader.pm
+Cwd: C:\Evan\Auctionitis103
+Byref: 0
+Clean: 0
+Date: 2010-03-02 18:01:09
+Debug: 
+Dependent: 0
+Exe: TMLoader.dll
+Force: 1
+Hostname: devbox
+Lib: lib:C:\Evan\lib
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: Auctionitis Software Limited
+Version-FileDescription: Auctionitis Intercommunication Module
+Version-FileVersion: 2.1.0.1988
+Version-InternalName: TMLoader
+Version-LegalCopyright: 2004-2010
+Version-LegalTrademarks: Auctionitis
+Version-OriginalFilename: TMLoader
+Version-ProductName: TMLoader
+Version-ProductVersion: 2.1.0.1988
+Warnings: 0
+Xclude: 0
